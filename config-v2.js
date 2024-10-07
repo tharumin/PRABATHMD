@@ -1,4 +1,4 @@
-const GITHUB_AUTH_TOKEN = "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"
+const GITHUB_AUTH_TOKEN = "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"
 const BOT_NUMBER = "94768211853"
 const SESSION_ID = "PRABATH-MD~VUwCzZba#hDjZ1MsovQtMfGElho7cqV0z21nq4Y4e6zynD6nyHmc"
 
